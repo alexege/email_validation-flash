@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.message-true {
+    background-color: green;
+    height: 100px;
+    text-align: center;
+}
+.message-false {
+    background-color: red;
+    height: 100px;
+    text-align: center;
+}
